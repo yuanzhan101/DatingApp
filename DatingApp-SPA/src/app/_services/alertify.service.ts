@@ -14,8 +14,8 @@ constructor() { }
         });
     }
 
-    successs(message: string) {
-        alertify.successs(message);
+    success(message: string) {
+        alertify.success(message);
     }
 
     error(message: string) {
